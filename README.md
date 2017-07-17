@@ -1,5 +1,7 @@
 # kata_calc
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/kata_calc.svg)](https://greenkeeper.io/)
+
 [![Build Status](http://img.shields.io/travis/kikobeats/kata-calc/master.svg?style=flat)](https://travis-ci.org/kikobeats/kata-calc)
 [![Coverage Status](http://img.shields.io/coveralls/kikobeats/kata-calc/master.svg?style=flat)](https://coveralls.io/r/kikobeats/kata-calc?branch=master)
 [![Dependency status](http://img.shields.io/david/kikobeats/kata-calc.svg?style=flat)](https://david-dm.org/kikobeats/kata-calc)
