@@ -8,7 +8,7 @@
     "url": "https://github.com/Kikobeats"
   },
   "dependencies": {
-    "chai": "^1.9.1",
+    "chai": "^4.1.0",
     "coffee-script": "^1.7.1"
   },
   "devDependencies": {
